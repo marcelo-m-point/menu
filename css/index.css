@@ -1,0 +1,41 @@
+.kantumruy-pro {
+    font-family: "Kantumruy Pro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+body {
+    background-color: #e7d6bb;
+    margin: 0px 150px;
+    padding-bottom: 100px;
+}
+
+header {
+    position: relative;
+    text-align: center;
+}
+
+header .logo {
+    width: 300px;
+    margin: 0 auto;
+    padding: 0;
+    display: block;
+}
+
+header .foodtruck {
+    height: 75px;
+    position: absolute;
+    top: 50%; 
+}
+
+h1, h2, h3, h4, h5, h6, p, span {
+    color: #01287e;
+    font-family: "Kantumruy Pro", sans-serif;
+}
+
+@media (max-width: 1024px) {
+    body {
+        margin: 0px 15px;
+    }
+}

@@ -150,6 +150,16 @@ const coldDrinks = [
     description: 'Sabores: Abacaxi, Abacaxi c/ hortelã, Maracujá, Morango'
   },
   {
+    name: 'Suco Detox',
+    price: 10.00,
+    description: 'Abacaxi, couve, gengibre e maçã'
+  },
+  {
+    name: 'Suco Detox c/laranja',
+    price: 12.00,
+    description: 'suco de laranja, abacaxi, couve, gengibre e maçã'
+  },
+  {
     name: 'Energético Monster',
     price: 13.00
   },
